@@ -1,13 +1,14 @@
 ---
 title: "Multiple SIP Reason Header Field Values"
 abbrev: "Multiple reasons"
-docname: draft-sparks-sipcore-multiple-reasons-latest
+docname: draft-ietf-sipcore-multiple-reasons-latest
 category: std
 updates: 3326
 
 ipr: trust200902
 area: ART
 workgroup: SIPCORE Working Group
+stream: IETF
 keyword: Internet-Draft
 
 stand_alone: yes
@@ -73,3 +74,6 @@ This document has no IANA actions.
 
 # Acknowledgments
 This text is based on discussions at a STIR working group interim meeting. Jean Mahoney and Russ Housley provided suggestions that vastly improved the first attempts at assembling these words.
+
+# Changelog
+- rename draft-sparks to draft-ietf. Add changelog.
