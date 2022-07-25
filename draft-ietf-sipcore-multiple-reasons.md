@@ -18,12 +18,12 @@ pi: [toc, sortrefs, symrefs]
 author:
  -
     name: Robert Sparks
-    organization: 
+    organization:
     email: rjsparks@nostrum.com
 
 normative:
   RFC3326: RFC3326
-  
+
 informative:
 
 
