@@ -25,7 +25,7 @@ normative:
   RFC3326: RFC3326
 
 informative:
-  STIRREASONS: I-D.ietf-stir-identity-header-errors-handling 
+  STIRREASONS: I-D.ietf-stir-identity-header-errors-handling
 
 --- abstract
 
