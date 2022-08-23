@@ -76,10 +76,13 @@ This document has no IANA actions.
 This text is based on discussions at a STIR working group interim meeting. Jean Mahoney and Russ Housley provided suggestions that vastly improved the first attempts at assembling these words. Christer Holmberg, Dale Worley, Brian Rosen,  Chris Wendt, and Paul Kyzivat provided constructive discussion during SIPCORE working group adoption.
 
 # Changelog
+{:anchor="changelog"}
 (This section to be removed by the RFC editor.)
 
 ## 00
+{:anchor="changelog-00"}
 - rename draft-sparks to draft-ietf. Add changelog.
 
 ## 01
+{:anchor="changelog-01"}
 - expand a little on "Practice shows", referring to {{STIRREASONS}}
