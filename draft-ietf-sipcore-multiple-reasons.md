@@ -25,17 +25,17 @@ normative:
   RFC3326: RFC3326
 
 informative:
-
+  STIRREASONS: I-D.ietf-stir-identity-header-errors-handling
 
 --- abstract
 
-The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value per protocol value. Practice shows it is useful to allow multiple values with the same protocol value. This update to RFC 3326 allows multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means.
+The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value per protocol value. Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value. This update to RFC 3326 allows multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means.
 
 --- middle
 
 # Introduction
 
-The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value per protocol value. Practice shows it is useful to allow multiple values with the same protocol value. This update to RFC 3326 allows multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means.
+The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value per protocol value. Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value {{STIRREASONS}}. This update to RFC 3326 allows multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means. It does not change the requirement in RFC 3326 restricting the header field contents to one value per protocol for those protocols that do not define what multiple values mean.
 
 # Conventions and Definitions
 
@@ -73,7 +73,16 @@ This document has no IANA actions.
 --- back
 
 # Acknowledgments
-This text is based on discussions at a STIR working group interim meeting. Jean Mahoney and Russ Housley provided suggestions that vastly improved the first attempts at assembling these words.
+This text is based on discussions at a STIR working group interim meeting. Jean Mahoney and Russ Housley provided suggestions that vastly improved the first attempts at assembling these words. Christer Holmberg, Dale Worley, Brian Rosen,  Chris Wendt, and Paul Kyzivat provided constructive discussion during SIPCORE working group adoption.
 
 # Changelog
+{:anchor="changelog"}
+(This section to be removed by the RFC editor.)
+
+## 00
+{:anchor="changelog-00"}
 - rename draft-sparks to draft-ietf. Add changelog.
+
+## 01
+{:anchor="changelog-01"}
+- expand a little on "Practice shows", referring to {{STIRREASONS}}
