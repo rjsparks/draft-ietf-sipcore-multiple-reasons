@@ -77,7 +77,9 @@ This text is based on discussions at a STIR working group interim meeting. Jean 
 
 # Changelog
 (This section to be removed by the RFC editor.)
+
 ## 00
 - rename draft-sparks to draft-ietf. Add changelog.
+
 ## 01
 - expand a little on "Practice shows", referring to {{STIRREASONS}}
