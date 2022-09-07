@@ -7,8 +7,11 @@
 *~
 .tags
 /*-[0-9][0-9].xml
+/.gems/
 /.refcache
 /.targets.mk
+/.venv/
+/.vscode/
 /lib
 /node_modules/
 /versioned/
@@ -17,3 +20,4 @@ archive.json
 draft-ietf-sipcore-multiple-reasons.xml
 package-lock.json
 report.xml
+!requirements.txt
