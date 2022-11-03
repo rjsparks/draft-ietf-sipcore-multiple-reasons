@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2022-11-03T01:43:13.716259+00:00",
+  "repo": "rjsparks/draft-ietf-sipcore-multiple-reasons",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOHtzp6M49kaWH",
+      "title": "fix: expand on \"Practice shows\". Refer to STIR document that needs this.",
+      "url": "https://github.com/rjsparks/draft-ietf-sipcore-multiple-reasons/pull/1",
+      "state": "MERGED",
+      "author": "rjsparks",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2022-08-22T14:48:16Z",
+      "updatedAt": "2022-08-23T17:54:52Z",
+      "baseRepository": "rjsparks/draft-ietf-sipcore-multiple-reasons",
+      "baseRefName": "main",
+      "baseRefOid": "ebc90dc9492756d6eddb4bf9f66125ff9ee3858a",
+      "headRepository": "rjsparks/draft-ietf-sipcore-multiple-reasons",
+      "headRefName": "becausestir",
+      "headRefOid": "7824a3f8126a085f25df7c72dddc155b9d65d3b6",
+      "closedAt": "2022-08-23T17:54:29Z",
+      "mergedAt": "2022-08-23T17:54:29Z",
+      "mergedBy": "rjsparks",
+      "mergeCommit": {
+        "oid": "9c68b526d4f54ef9a31fc233ebc09b3c19aee2b6"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOHtzp6M4-f4DL",
+      "title": "Ci fixes",
+      "url": "https://github.com/rjsparks/draft-ietf-sipcore-multiple-reasons/pull/2",
+      "state": "MERGED",
+      "author": "martinthomson",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "As a recent user of the template, you picked up a performance bug in the workflow files.  As I can't automate fixes, I'm doing a few drafts manually.",
+      "createdAt": "2022-09-07T10:04:30Z",
+      "updatedAt": "2022-09-07T17:12:08Z",
+      "baseRepository": "rjsparks/draft-ietf-sipcore-multiple-reasons",
+      "baseRefName": "main",
+      "baseRefOid": "9c68b526d4f54ef9a31fc233ebc09b3c19aee2b6",
+      "headRepository": "martinthomson/draft-ietf-sipcore-multiple-reasons",
+      "headRefName": "ci-fixes",
+      "headRefOid": "87bb7c63ab9d426f5699f611b1a54f52006a9c0b",
+      "closedAt": "2022-09-07T17:12:08Z",
+      "mergedAt": "2022-09-07T17:12:08Z",
+      "mergedBy": "rjsparks",
+      "mergeCommit": {
+        "oid": "30b86ec795ae95c71e935408ac95b552b28b1581"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
