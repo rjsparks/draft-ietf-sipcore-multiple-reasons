@@ -3,10 +3,10 @@
 
 
 SIPCORE Working Group                                          R. Sparks
-Internet-Draft                                           5 December 2022
+Internet-Draft                                           8 December 2022
 Updates: 3326 (if approved)                                             
 Intended status: Standards Track                                        
-Expires: 8 June 2023
+Expires: 11 June 2023
 
 
                 Multiple SIP Reason Header Field Values
@@ -36,7 +36,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 June 2023.
+   This Internet-Draft will expire on 11 June 2023.
 
 Copyright Notice
 
