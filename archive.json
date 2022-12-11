@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-12-08T01:14:27.242756+00:00",
+  "timestamp": "2022-12-11T01:20:53.119508+00:00",
   "repo": "rjsparks/draft-ietf-sipcore-multiple-reasons",
   "labels": [
     {
@@ -112,24 +112,26 @@
       "id": "PR_kwDOHtzp6M5Esp_r",
       "title": "Fix a typo",
       "url": "https://github.com/rjsparks/draft-ietf-sipcore-multiple-reasons/pull/3",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "martinthomson",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "I made a boo-boo here, so it's only fair that I fix it.",
       "createdAt": "2022-12-07T22:26:31Z",
-      "updatedAt": "2022-12-07T22:26:31Z",
+      "updatedAt": "2022-12-08T14:57:31Z",
       "baseRepository": "rjsparks/draft-ietf-sipcore-multiple-reasons",
       "baseRefName": "main",
       "baseRefOid": "32631659f96eea6c57b543291835f9b9e4966e31",
       "headRepository": "martinthomson/draft-ietf-sipcore-multiple-reasons",
       "headRefName": "patch-1",
       "headRefOid": "090a900324d878878f4f8c0aeb3da43688cca9fb",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2022-12-08T14:57:30Z",
+      "mergedAt": "2022-12-08T14:57:30Z",
+      "mergedBy": "rjsparks",
+      "mergeCommit": {
+        "oid": "2ce172255e0834a6bd63df3d878f0e51876cfbce"
+      },
       "comments": [],
       "reviews": []
     }
